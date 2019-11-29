@@ -608,6 +608,7 @@ deployment "rancher" successfully rolled out
 浏览器访问自定义的UI页面地址
 
 ![image-images/2019-11-26 095729](images/2019-11-26 095729.png)
+<img src="images/image-20191125010418284.png" alt="image-20191125010418284" style="zoom: 50%;" />
 
 备注：UI页面初始化时，需要设置初始密码。
 
