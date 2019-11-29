@@ -604,9 +604,63 @@ deployment "rancher" successfully rolled out
 ```
 
 # 三、使用
+## （一）登录
+浏览器访问自定义的UI页面地址
+<img src="images/2019-11-26 095729.png" width="1350" height="735" border="0" alt="">
 
-按场景提供使用步骤，
+### 备注：UI页面初始化时，需要设置初始密码。
 
+## （二）用户管理
+在页面上方的导航栏中进入用户界面
+<img src="images/2019-11-26 095806.png" width="1350" height="735" border="0" alt="">
+
+> 全局用户界面里添加用户
+
+<img src="images/2019-11-26 095839.png" width="1027" height="640" border="0" alt="">
+<img src="images/2019-11-26 100445.png" width="1027" height="640" border="0" alt="">
+<img src="images/2019-11-26 100530.png" width="1027" height="640" border="0" alt="">
+## （三）集群管理
+>导航栏的集群列表
+
+<img src="images/2019-11-26 095859.png" width="1031" height="293" border="0" alt="">
+>切换层面
+
+<img src="images/2019-11-26 095913.png" width="1010" height="266" border="0" alt="">
+>集群管理界面
+
+<img src="images/2019-11-26 095928.png" width="1025" height="581" border="0" alt="">
+## （四）项目管理
+<img src="images/2019-11-26 095943.png" width="1040" height="331" border="0" alt="">
+
+###部署nginx服务
+> 1、点击部署服务
+<img src="images/2019-11-26 100040.png" width="1267" height="572" border="0" alt="">
+
+> 2、填写相关参数
+<img src="images/2019-11-26 100139.png" width="799" height="446" border="0" alt="">
+
+> 3、查看pod日志
+<img src="images/2019-11-26 100159.png" width="1481" height="850" border="0" alt="">
+
+> 4、查看pod状态
+<img src="images/2019-11-26 100218.png" width="1637" height="953" border="0" alt="">
+
+> 5、查看pod事件
+<img src="images/2019-11-26 100233.png" width="818" height="425" border="0" alt="">
+###配置产品流水线 
+1、配置代码库
+<img src="images/2019-11-26 100249.png" width="1123" height="594" border="0" alt="">
+
+2、配置流水线
+<img src="images/2019-11-26 100302.png" width="683" height="384" border="0" alt="">
+3、添加相应步骤
+<img src="images/2019-11-26 100318.png" width="670" height="368" border="0" alt="">
+4、运行流水线
+<img src="images/2019-11-26 100336.png" width="1126" height="592" border="0" alt="">
+6、查看运行日志
+<img src="images/2019-11-26 100350.png" width="1125" height="592" border="0" alt="">
+7、查看运行状态
+<img src="images/2019-11-26 100407.png" width="1124" height="592" border="0" alt="">
 # 四、维护
 
 ## 升级回滚
