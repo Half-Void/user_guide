@@ -614,7 +614,7 @@ deployment "rancher" successfully rolled out
 ## 2.用户管理
 在页面上方的导航栏中进入用户界面
 
-<img src="images/2019-11-26 095806.png" width="1350" height="735" border="0" alt="">
+![image-images/2019-11-26 095806](images/2019-11-26 095806.png)
 
 ### 2.1 全局用户界面里添加用户
 
