@@ -615,81 +615,81 @@ deployment "rancher" successfully rolled out
 ## 2.用户管理
 在页面上方的导航栏中进入用户界面
 
-  ![image-images/2019-11-26 095806](images/2019-11-26 095806.png)
+  ![image-images/2019-11-26 095806](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20095806.png)
 
 ### 2.1 全局用户界面里添加用户
 
-  ![image-images/2019-11-26 095839](images/2019-11-26 095839.png)
+  ![image-images/2019-11-26 095839](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20095839.png)
 
-  ![image-images/2019-11-26 100445](images/2019-11-26 100445.png)
+  ![image-images/2019-11-26 100445](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20100445.png)
 
-  ![image-images/2019-11-26 100530](images/2019-11-26 100530.png)
+  ![image-images/2019-11-26 100530](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20100530.png)
 
 ## 3.集群管理
 
 ### 3.1 导航栏的集群列表
 
-  ![image-images/2019-11-26 095859](images/2019-11-26 095859.png)
+  ![image-images/2019-11-26 095859](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20095859.png)
 
 ### 3.2 切换层面
 
-  ![image-images/2019-11-26 095913](images/2019-11-26 095913.png)
+  ![image-images/2019-11-26 095913](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20095913.png)
 
 ### 3.3 集群管理界面
 
-  ![image-images/2019-11-26 095928](images/2019-11-26 095928.png)
+  ![image-images/2019-11-26 095928](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20095928.png)
 
 ## 4.项目管理
 
-  ![image-images/2019-11-26 095943](images/2019-11-26 095943.png)
+  ![image-images/2019-11-26 095943](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20095943.png)
 
 ### 4.1 部署nginx服务
 
 #### 4.1.1  点击部署服务
 
-  ![image-images/2019-11-26 100040](images/2019-11-26 100040.png)
+  ![image-images/2019-11-26 100040](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20100040.png)
 
 #### 4.1.2  填写相关参数
 
-  ![image-images/2019-11-26 100139](images/2019-11-26 100139.png)
+  ![image-images/2019-11-26 100139](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20100139.png)
 
 #### 4.1.3  查看pod日志
 
-  ![image-images/2019-11-26 100159](images/2019-11-26 100159.png)
+  ![image-images/2019-11-26 100159](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20100159.png)
 
 #### 4.1.4  查看pod状态
 
-  ![image-images/2019-11-26 100218](images/2019-11-26 100218.png)
+  ![image-images/2019-11-26 100218](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20100218.png)
 
 #### 4.1.5  查看pod事件
 
-  ![image-images/2019-11-26 100233](images/2019-11-26 100233.png)
+  ![image-images/2019-11-26 100233](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20100233.png)
 
 ### 4.2 配置产品流水线 
 
 #### 4.2.1  配置代码库
 
-  ![image-images/2019-11-26 100249](images/2019-11-26 100249.png)
+  ![image-images/2019-11-26 100249](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20100249.png)
 
 #### 4.2.2  配置流水线
 
-  ![image-images/2019-11-26 100302](images/2019-11-26 100249.png)
+  ![image-images/2019-11-26 100302](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20100302.png)
 
 #### 4.2.3  添加相应步骤
 
-  ![image-images/2019-11-26 100318](images/2019-11-26 100318.png)
+  ![image-images/2019-11-26 100318](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20100318.png)
 
 #### 4.2.4  运行流水线
 
-  ![image-images/2019-11-26 100336](images/2019-11-26 100336.png)
+  ![image-images/2019-11-26 100336](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20100336.png)
 
 #### 4.2.5  查看运行日志
 
-  ![image-images/2019-11-26 100350](images/2019-11-26 100350.png)
+  ![image-images/2019-11-26 100350](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20100350.png)
 
 #### 4.2.6  查看运行状态
 
-  ![image-images/2019-11-26 100407](images/2019-11-26 100249.png)
+  ![image-images/2019-11-26 100407](https://github.com/Half-Void/user_guide/blob/master/images/2019-11-26%20100407.png)
 
 # 四、维护
 
